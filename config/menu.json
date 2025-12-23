@@ -1,34 +1,16 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Trang Chủ",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Giới thiệu",
       "url": "/about"
     },
+
     {
-      "name": "Blog",
-      "url": "/posts"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Terms & Conditions",
-          "url": "/terms-policy"
-        }
-      ]
-    },
-    {
-      "name": "Contact",
+      "name": "Liên hệ",
       "url": "/contact"
     }
   ],

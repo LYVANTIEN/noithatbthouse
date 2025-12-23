@@ -1,10 +1,10 @@
 ---
 banner:
-  title: "Andromeda is the most intuitive </br> way to prototype Designs"
-  image: /images/banner-app.png
+  title: "Nội thất BT House Cần Thơ </br> Thiết kế và thi công trọn gói"
+  image: /images/bianoithat1.png
   link:
-    label: Get Premium Version
-    href: "https://themefisher.com/products/andromeda-nextjs"
+    label: Liên hệ ngay
+    href: "tel:0793993821"
 
 ##brands
 brands:
@@ -20,9 +20,9 @@ brands:
 
 #features
 features:
-  sub_title: SPECIAL FEATURES
-  title: Elements To </br> Get You Started
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  sub_title: Tư vấn thiết kế
+  title: Đo đạt và lấy ý kiến </br> Lên thiết kế 3D
+  description: BT House sẽ luôn lên thiết kế dựa theo số đo thực tế </br>và thiết kế riêng theo ý kiến khách hàng và tiến hành sản xuất.
   list:
     - icon: 'lock' # feather icon: https://feathericons.com/
       title: Updated Security
