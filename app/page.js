@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import Cta from "@layouts/components/Cta";
 import GSAPWrapper from "@layouts/components/GSAPWrapper";
 import Features from "@layouts/partials/Features";
@@ -7,7 +8,6 @@ import ShortIntro from "@layouts/partials/ShortIntro";
 import SpecialFeatures from "@layouts/partials/SpecialFeatures";
 import Testimonial from "@layouts/partials/Testimonial";
 import { getListPage } from "@lib/contentParser";
-export const runtime = "nodejs";
 
 const Home = async () => {
   const homepage = await getListPage("content/_index.md");

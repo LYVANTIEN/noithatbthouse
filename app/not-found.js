@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import NotFound from "@layouts/404";
 import { getRegularPage } from "@lib/contentParser";
 
