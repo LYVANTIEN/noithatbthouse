@@ -5,6 +5,7 @@ import FeatherIcon from "feather-icons-react/build/FeatherIcon";
 import { useRef } from "react";
 import { Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
+import ImageFallback from "@components/ImageFallback"; // nếu dùng ImageFallback
 
 const Features = ({ features }) => {
   const paginationRef = useRef(null);
@@ -42,9 +43,20 @@ const Features = ({ features }) => {
             {features.list.map((item, index) => (
               <SwiperSlide key={"feature-" + index}>
                 <div className="feature-card m-4 rounded-md border border-transparent px-7 py-16 shadow-[0px_4px_25px_rgba(0,0,0,.05)] transition-all duration-300  hover:border-[#ffece4] hover:shadow-none">
-                  <div className="feature-card-icon inline-flex h-20 w-20 items-center justify-center rounded-md border border-[#fff7f3] text-primary">
-                    <FeatherIcon icon={item.icon} />
+                  <div className="feature-card-icon inline-flex h-144 w-96 items-center justify-center ">
+                    {item.image ? (
+                      <ImageFallback
+                        src={item.image}
+                        alt={item.title}
+                        width={300}
+                        height={360}
+                        className="object-contain"
+                      />
+                    ) : (
+                      <FeatherIcon icon={item.icon} />
+                    )}
                   </div>
+
                   <h3 className="h4 mb-5 mt-6">{item.title}</h3>
                   <p>{item.content}</p>
                 </div>

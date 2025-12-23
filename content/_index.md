@@ -20,29 +20,36 @@ brands:
 
 #features
 features:
-  sub_title: Tư vấn thiết kế
-  title: Đo đạt và lấy ý kiến </br> Lên thiết kế 3D
-  description: BT House sẽ luôn lên thiết kế dựa theo số đo thực tế </br>và thiết kế riêng theo ý kiến khách hàng và tiến hành sản xuất.
+  sub_title: Hình ảnh thi công thực tế
+  title: Thiết kế sang trọng </br>Dẫn đầu xu hướng
+  description: BT House với nhiều hạng mục thi công từ tủ quần áo, nhà bếp đến full nội thất cho nhà phố hay căn hộ </br> Luôn luôn lắng nghe và cải thiện để có thể mang đến những không gian sống hiện đại và chất lượng nhất cho khách hàng.
   list:
-    - icon: 'lock' # feather icon: https://feathericons.com/
-      title: Updated Security
+    - icon: "lock" # feather icon: https://feathericons.com/
+      title: Nội thất nhà bếp
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-      image: /images/.png
-    - icon: 'wind'
-      title: Magnetic Turning
+      image: /images/bthouse/beptrang.png
+    - icon: "wind"
+      title: Nội thất phòng ngủ
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'shield'
-      title: Secured & up-to-date
+      image: /images/bthouse/phongnguhong.png
+    - icon: "shield"
+      title: Full nội thất chung cư
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'link'
-      title: Instant Link Sharing
+      image: /images/bthouse/bepxam.png
+    - icon: "link"
+      title: Tủ thiết kế
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'lock'
-      title: Updated Security
+      image: /images/bthouse/tu.png
+
+    - icon: "lock"
+      title: Thiết kế sang trọng
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'wind'
-      title: Magnetic Turning
+      image: /images/bthouse/cauthang.png
+
+    - icon: "wind"
+      title: Ốp vách & Sofa
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      image: /images/bthouse/sofa.png
 
 #intro
 intro:
@@ -64,7 +71,6 @@ speciality:
     subtitle: SECONDARY SPECIALITY
     description: From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code.
     image: /images/features-02.png
-
 
 #Testimonial
 testimonial:
@@ -104,5 +110,4 @@ testimonial:
       avatar: /images/user-img/08.jpg
       profession: CEO, Nexuspay
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-
 ---
