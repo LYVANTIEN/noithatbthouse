@@ -4,7 +4,7 @@ banner:
   image: /images/bianoithat2.png
   link:
     label: Liên hệ ngay
-    href: "tel:0793993821"
+    href: "tel:0787975354"
 
 ##brands
 brands:
@@ -62,15 +62,20 @@ intro:
 #speciality
 speciality:
   primary:
-    title: You Will Not Miss Your All Misunderstandings
+    title: Lên thiết kế 3D dựa trên mong muốn khách hàng
     subtitle: Tư vấn đo đạc & thiết kế 3D  
-    description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the.
-    image: /images/features-01.png
+    description: BT House sẽ cho kĩ thuật đến tận công trình đo đạc được kích thước thực tế, sau đó bộ phận thiết kế sẽ lên ý tưởng thiết kế và trình chiếu 3D cho khách hàng. </br> Mong muốn và sở thích của khách hàng được đặt lên hàng đầu.
+    image: /images/render3d.png
   secondary:
-    title: Say Hello To No-Code The Advance Creation
-    subtitle: SECONDARY SPECIALITY
-    description: From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code.
-    image: /images/features-02.png
+    title: Sản phẩm được cắt CNC và gia công tại xưởng
+    subtitle: Quy trình sản xuất & thi công
+    description: BT House có xưởng sản xuất rộng 1000 mét vuông gồm nhiều máy móc hiện đại như máy CNC, máy cưa trượt,... tất cả sản phẩm sẽ được gia công một phần tại xưởng sau đó sẽ vận chuyển đến công trình để tiết hành thi công hoàn thiện.
+    image: /images/hong1.png
+  Third:
+    title: Kiểm tra chất lượng tốt nhất trước khi bàn giao
+    subtitle: Nghiệm thu & Bàn giao
+    description: Sau khi thi công BT House sẽ có đội vệ sinh sạch sẽ và kiếm tra lại chất lượng sản phẩm sau đó sẽ được bàn giao cho khách hàng đúng với tiến độ hợp đồng.
+    image: /images/bangiao.png
 
 #Testimonial
 testimonial:

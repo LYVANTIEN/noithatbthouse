@@ -19,8 +19,7 @@ const ShortIntro = ({ intro }) => {
               <VideoPopup
                 id={intro.video_id}
                 thumbnail={intro.thumbnail}
-                width={600}
-                height={320} // tỉ lệ 16:9 cho 900px width
+
               />
             </div>
 
