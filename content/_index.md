@@ -63,7 +63,7 @@ intro:
 speciality:
   primary:
     title: You Will Not Miss Your All Misunderstandings
-    subtitle: PRIMARY SPECIALITY
+    subtitle: Tư vấn đo đạc & thiết kế 3D  
     description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the.
     image: /images/features-01.png
   secondary:
