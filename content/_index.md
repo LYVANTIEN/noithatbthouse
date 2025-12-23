@@ -53,11 +53,11 @@ features:
 
 #intro
 intro:
-  title: Built Exclusively For You
-  subtitle: SHORT INTRO VIDEO
+  title: Thi công đa dạng nội thất
+  subtitle: Video sản phẩm thực tế
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
-  thumbnail: "/images/video-popup.jpg"
-  video_id: dyZcRRWiuuw
+  thumbnail: "/images/video.jpg"
+  video_id: kOq9s07PalA #link video
 
 #speciality
 speciality:

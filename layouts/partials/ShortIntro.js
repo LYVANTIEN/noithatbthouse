@@ -15,9 +15,15 @@ const ShortIntro = ({ intro }) => {
               {markdownify(intro.title, "h2", "mt-4 section-title")}
               {markdownify(intro.description, "p", "mt-10")}
             </div>
-            <div className="mx-auto mt-10 h-full max-h-[394px] w-full max-w-[716px]">
-              <VideoPopup id={intro.video_id} thumbnail={intro.thumbnail} />
+            <div className="relative w-full max-w-[900px] mx-auto aspect-video rounded-2xl overflow-hidden mt-10">
+              <VideoPopup
+                id={intro.video_id}
+                thumbnail={intro.thumbnail}
+                width={600}
+                height={320} // tỉ lệ 16:9 cho 900px width
+              />
             </div>
+
           </div>
           <div className="bg-theme absolute left-0 top-0 w-full">
             <Circle
