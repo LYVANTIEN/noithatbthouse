@@ -93,7 +93,11 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
     <section className="section banner pt-0">
       <div className="container-xl">
         <div className="relative">
-          <div className="bg-theme banner-bg col-12 absolute left-0 top-0">
+          <div
+            className="banner-bg absolute left-0 top-0 w-full bg-cover bg-center h-[40vh] sm:h-[50vh] md:h-[60vh] lg:h-[70vh]"
+            style={{ backgroundImage: "url('/images/bthouse/phongnguhong.png')" }}
+          >
+
             <Circle
               className="circle left-[10%] top-12"
               width={32}

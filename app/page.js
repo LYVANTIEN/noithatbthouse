@@ -21,7 +21,7 @@ const Home = async () => {
       <Features features={features} />
       <ShortIntro intro={intro} />
       <SpecialFeatures speciality={speciality} />
-      <Testimonial testimonial={testimonial} />
+      {/* <Testimonial testimonial={testimonial} /> */}
       <Cta />
     </GSAPWrapper>
   );
