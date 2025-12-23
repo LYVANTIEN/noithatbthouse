@@ -1,22 +1,22 @@
 ---
 banner:
   title: "Nội thất BT House Cần Thơ </br> Thiết kế và thi công trọn gói"
-  image: /images/bianoithat1.png
+  image: /images/bianoithat2.png
   link:
     label: Liên hệ ngay
     href: "tel:0793993821"
 
 ##brands
 brands:
-  - /images/brands/01-colored.png
-  - /images/brands/02-colored.png
-  - /images/brands/03-colored.png
-  - /images/brands/04-colored.png
-  - /images/brands/05-colored.png
-  - /images/brands/06-colored.png
-  - /images/brands/04-colored.png
-  - /images/brands/05-colored.png
-  - /images/brands/06-colored.png
+  - /images/brands/logokes.png
+  - /images/brands/logoancuong.png
+  - /images/brands/bathanh.png
+  - /images/brands/logokes.png
+  - /images/brands/logoancuong.png
+  - /images/brands/bathanh.png
+  - /images/brands/logokes.png
+  - /images/brands/logoancuong.png
+  - /images/brands/bathanh.png
 
 #features
 features:
@@ -27,6 +27,7 @@ features:
     - icon: 'lock' # feather icon: https://feathericons.com/
       title: Updated Security
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      image: /images/.png
     - icon: 'wind'
       title: Magnetic Turning
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus

@@ -193,14 +193,14 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
                 }}
                 spaceBetween={20}
                 modules={[Autoplay]}
-                autoplay={{ delay: 3000 }}
+                autoplay={{ delay: 1000 }}
               >
                 {brands.map((brand, index) => (
                   <SwiperSlide
                     className=" h-20 cursor-pointer px-6 py-6 grayscale  transition hover:grayscale-0 lg:px-10"
                     key={"brand-" + index}
                   >
-                    <div className="relative h-full">
+                    <div className="relative h-[80px] w-[150px] mx-auto">
                       <ImageFallback
                         className="object-contain"
                         src={brand}
