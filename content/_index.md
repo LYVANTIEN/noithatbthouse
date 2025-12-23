@@ -53,9 +53,9 @@ features:
 
 #intro
 intro:
-  title: Thi công đa dạng nội thất
+  title: Thiết kế sang trọng </br> dẫn đầu xu hướng
   subtitle: Video sản phẩm thực tế
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: Cùng khám phá video thực tế sản phẩm tại BT House,</br> nơi mọi chi tiết được thực hiện tỉ mỉ và chuẩn xác, mang đến không gian hoàn hảo cho khách hàng.
   thumbnail: "/images/video.jpg"
   video_id: kOq9s07PalA #link video
 
