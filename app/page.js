@@ -7,6 +7,7 @@ import ShortIntro from "@layouts/partials/ShortIntro";
 import SpecialFeatures from "@layouts/partials/SpecialFeatures";
 import Testimonial from "@layouts/partials/Testimonial";
 import { getListPage } from "@lib/contentParser";
+export const runtime = "nodejs";
 
 const Home = async () => {
   const homepage = await getListPage("content/_index.md");
