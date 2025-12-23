@@ -25,7 +25,7 @@
   "contact_info": {
     "phone": "+0787975354",
     "email": "BTHouseCanTho@gmail.com",
-    "location": "71 Phan Trọng Tuệ, Phường Phú Thứ, Thành Phố Cần Thơ"
+    "location": "Văn phòng công ty: <br/> 71 Phan Trọng Tuệ, Phường Phú Thứ, TP.Cần Thơ <br/> Xưởng sản xuất: <br/> E8 đường số 51, KDC 586, TP. Cần Thơ"
   },
 
   "nav_button": {
@@ -42,11 +42,11 @@
 
   "call_to_action": {
     "enable": true,
-    "title": "Get Andromeda Now",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.",
+    "title": "Liên hệ ngay để được tư vấn hoàn toàn miễn phí",
+    "content": "BT House với kinh nghiệm thi công nội thất có quy trình rõ ràng từ lên ý tưởng thiết kế 3D cho khách hàng. <br/> và sản phẩm được sản xuất tại xưởng riêng và lắp đặt bàn giao đến khách hàng.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/products/andromeda-light-nextjs"
+      "label": "Gửi tin nhắn",
+      "link": "https://www.facebook.com/noithat.bthouse.vn"
     }
   },
 
