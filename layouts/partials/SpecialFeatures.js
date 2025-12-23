@@ -5,7 +5,7 @@ const SpecialFeatures = ({ speciality }) => {
   return (
     <section className="section">
       <div className="container">
-        <div className="row items-center justify-center">
+        <div className="row items-center justify-center mb-[80px]">
           <div className="animate lg:col-6 lg:order-2">
             <ImageFallback
               className="mx-auto"
@@ -25,7 +25,7 @@ const SpecialFeatures = ({ speciality }) => {
             {markdownify(speciality.primary.description, "p", "mt-10")}
           </div>
         </div>
-        <div className="row items-center">
+        <div className="row items-center justify-center mb-[80px]">
           <div className="animate lg:col-6">
             <ImageFallback
               className="mx-auto"
