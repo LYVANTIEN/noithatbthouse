@@ -16,7 +16,7 @@ const Home = async () => {
     frontmatter;
   return (
     <GSAPWrapper>
-      <SeoMeta title="Home" />
+      <SeoMeta title="Nội Thất BT House" />
       <HomeBanner banner={banner} brands={brands} />
       <Features features={features} />
       <ShortIntro intro={intro} />

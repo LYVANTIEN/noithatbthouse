@@ -3,35 +3,35 @@
     "title": "Andromeda Light Nextjs",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.svg",
-    "logo_width": "240",
-    "logo_height": "34",
+    "logo": "/images/Bthome_xoanen.png",
+    "logo_width": "150",
+    "logo_height": "130",
     "logo_text": "Andromeda"
   },
 
   "settings": {
     "pagination": 6,
-    "summary_length": 200,
+    "summary_length": 180,
     "blog_folder": "posts"
   },
 
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "#",
-    "footer_content": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "copyright": "Designed & Developed By [Themefisher](https:www.themefisher.com)"
+    "footer_content": "Thiết kế và thi công nội thất trọn gói, uy tín và chất lượng tại Cần Thơ.",
+    "copyright": "Uy tín & chất lượng BT House Cần Thơ "
   },
 
   "contact_info": {
-    "phone": "+887887998",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624"
+    "phone": "+0787975354",
+    "email": "BTHouseCanTho@gmail.com",
+    "location": "71 Phan Trọng Tuệ, Phường Phú Thứ, Thành Phố Cần Thơ"
   },
 
   "nav_button": {
-    "enable": true,
-    "label": "Download Now",
-    "link": "https://themefisher.com/products/andromeda-light-nextjs"
+     "enable": true,
+  "label": "📞 Liên hệ ngay",
+  "link": "tel:0787975354"
   },
 
   "metadata": {
