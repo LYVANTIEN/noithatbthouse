@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Nội thất BT House Cần Thơ"
+  title: "Nội thất BT House </br>Cần Thơ"
   image: /images/bianoithat2.png
   link:
     label: Liên hệ ngay
