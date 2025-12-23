@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Nội thất BT House Cần Thơ </br> Thiết kế và thi công trọn gói"
+  title: "Nội thất BT House Cần Thơ"
   image: /images/bianoithat2.png
   link:
     label: Liên hệ ngay
