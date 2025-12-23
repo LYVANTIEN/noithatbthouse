@@ -53,7 +53,7 @@ features:
 
 #intro
 intro:
-  title: Thiết kế sang trọng </br> dẫn đầu xu hướng
+  title: Sản phẩm chất lượng </br> Bảo hành đến 10 năm
   subtitle: Video sản phẩm thực tế
   description: Cùng khám phá video thực tế sản phẩm tại BT House,</br> nơi mọi chi tiết được thực hiện tỉ mỉ và chuẩn xác, mang đến không gian hoàn hảo cho khách hàng.
   thumbnail: "/images/video.jpg"
