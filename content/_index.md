@@ -4,7 +4,7 @@ banner:
   image: /images/bianoithat2.png
   link:
     label: Liên hệ ngay
-    href: "tel:0787975354"
+    href: "tel:0913477124"
 
 ##brands
 brands:
