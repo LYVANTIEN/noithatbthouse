@@ -161,7 +161,7 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
                   {markdownify(
                     bannerData.title,
                     "h1",
-                    "mb-8 banner-title opacity-0 !text-2xl sm:!text-3xl md:!text-4xl lg:!text-5xl"
+                    "mb-8 banner-title opacity-0 !text-2xl sm:!text-3xl md:!text-4xl lg:!text-5xl font-extrabold text-[32px] sm:text-[36px] lg:text-[42px] [text-shadow:0_12px_8px_rgba(184,142,90,0.45)]"
                   )}
                   <div className="banner-btn opacity-0">
                     <Link

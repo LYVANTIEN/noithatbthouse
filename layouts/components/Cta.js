@@ -13,7 +13,7 @@ function Cta() {
       <div className="container-xl">
         <div className="section relative px-4 text-center">
           <div className="animate">
-            {markdownify(title, "h2", "section-title")}
+            {markdownify(title, "h2", "section-title font-extrabold text-[32px] sm:text-[36px] lg:text-[42px] [text-shadow:0_12px_8px_rgba(184,142,90,0.45)]")}
             {markdownify(content, "p", "mt-10")}
             <Link href={button.link} className="btn btn-primary mt-10">
               {button.label}

@@ -14,7 +14,7 @@ const Features = ({ features }) => {
       <div className="container text-center">
         <div className="animate">
           <p className="uppercase">{features.sub_title}</p>
-          {markdownify(features.title, "h2", "mt-4 section-title")}
+          {markdownify(features.title, "h2", "mt-4 section-title font-extrabold text-[32px] sm:text-[36px] lg:text-[42px] [text-shadow:0_12px_8px_rgba(184,142,90,0.45)]")}
           {markdownify(features.description, "p", "mt-10")}
         </div>
         <div className="animate from-right relative mt-10">

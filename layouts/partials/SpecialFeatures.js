@@ -20,7 +20,7 @@ const SpecialFeatures = ({ speciality }) => {
             {markdownify(
               speciality.primary.title,
               "h2",
-              "mt-4 section-title bar-left"
+              "mt-4 section-title bar-left font-extrabold text-[32px] sm:text-[36px] lg:text-[42px] [text-shadow:0_12px_8px_rgba(184,142,90,0.45)]"
             )}
             {markdownify(speciality.primary.description, "p", "mt-10")}
           </div>
@@ -40,7 +40,7 @@ const SpecialFeatures = ({ speciality }) => {
             {markdownify(
               speciality.secondary.title,
               "h2",
-              "mt-4 section-title bar-left"
+              "mt-4 section-title bar-left font-extrabold text-[32px] sm:text-[36px] lg:text-[42px] [text-shadow:0_12px_8px_rgba(184,142,90,0.45)]"
             )}
             {markdownify(speciality.secondary.description, "p", "mt-10")}
           </div>
@@ -60,7 +60,7 @@ const SpecialFeatures = ({ speciality }) => {
             {markdownify(
               speciality.Third.title,
               "h2",
-              "mt-4 section-title bar-left"
+              "mt-4 section-title bar-left font-extrabold text-[32px] sm:text-[36px] lg:text-[42px] [text-shadow:0_12px_8px_rgba(184,142,90,0.45)]"
             )}
             {markdownify(speciality.Third.description, "p", "mt-10")}
           </div>

@@ -67,7 +67,7 @@ const Banner = ({ title }) => {
     <div className="banner banner-single " ref={banner}>
       <div className="container-xl ">
         <div className="banner-wrapper relative text-center">
-          {markdownify(title, "h1", "mb-8 banner-regular-title opacity-0")}
+          {markdownify(title, "h1", "mb-8 banner-regular-title opacity-0 ")}
           <ul className="breadcrumb flex items-center justify-center opacity-0">
             <li>
               <Link className="text-primary" href="/">
