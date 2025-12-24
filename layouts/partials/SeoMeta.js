@@ -22,6 +22,9 @@ const SeoMeta = ({
       <title>
         {plainify(meta_title ? meta_title : title ? title : config.site.title)}
       </title>
+      {/* favicon */}
+      <link rel="icon" type="image/png" href="/favicon.png" />
+      <link rel="apple-touch-icon" href="/favicon.png" />
 
       {/* canonical url */}
       {canonical && <link rel="canonical" href={canonical} itemProp="url" />}
