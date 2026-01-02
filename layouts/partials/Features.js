@@ -58,8 +58,18 @@ const Features = ({ features }) => {
                   </div>
 
 
-                  <h3 className="h4 mb-5 mt-6">{item.title}</h3>
-                  <p>{item.content}</p>
+                  <h2
+                    className="h4 mb-5 mt-6 text-center font-extrabold"
+                    style={{
+                      textShadow: "0 2px 4px rgba(0,0,0,0.25)",
+                    }}
+                  >
+                    {item.title}
+                  </h2>
+
+                  <p className="text-justify leading-7 text-[14px] text-black/60">
+                    {item.content}
+                  </p>
                 </div>
               </SwiperSlide>
             ))}

@@ -26,29 +26,29 @@ features:
   list:
     - icon: "lock" # feather icon: https://feathericons.com/
       title: Nội thất nhà bếp
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      content: Thiết kế nội thất nhà bếp tối ưu công năng, bố cục khoa học và thẩm mỹ hiện đại. Vật liệu cao cấp, bền bỉ theo thời gian, mang đến không gian nấu nướng tiện nghi, ấm cúng và truyền cảm hứng cho mọi gia đình.
       image: /images/bthouse/beptrang.png
     - icon: "wind"
       title: Nội thất phòng ngủ
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      content: Nội thất phòng ngủ được thiết kế tinh tế, hài hòa ánh sáng và màu sắc, tạo cảm giác thư giãn tối đa. Giải pháp bố trí thông minh giúp tối ưu diện tích, mang đến không gian nghỉ ngơi riêng tư, ấm áp và đầy cảm xúc.
       image: /images/bthouse/phongnguhong.png
     - icon: "shield"
       title: Full nội thất chung cư
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      content: Giải pháp thi công full nội thất chung cư trọn gói, đồng bộ từ phòng khách đến phòng ngủ. Thiết kế tối ưu diện tích, chi phí hợp lý, đảm bảo tính thẩm mỹ và công năng, giúp gia chủ sở hữu không gian sống hoàn chỉnh, hiện đại.
       image: /images/bthouse/bepxam.png
     - icon: "link"
       title: Tủ thiết kế
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      content: Tủ thiết kế theo yêu cầu, đo đạc chuẩn xác theo từng không gian sử dụng. Kiểu dáng đa dạng, vật liệu cao cấp, tối ưu công năng lưu trữ, đáp ứng cả thẩm mỹ và nhu cầu sinh hoạt hàng ngày của gia đình.
       image: /images/bthouse/tu.png
 
     - icon: "lock"
       title: Thiết kế sang trọng
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      content: Phong cách thiết kế sang trọng đề cao sự tinh tế trong từng đường nét và vật liệu. Không gian được chăm chút kỹ lưỡng, hài hòa ánh sáng và màu sắc, mang đến giá trị thẩm mỹ cao cùng trải nghiệm sống đẳng cấp.
       image: /images/bthouse/cauthang.png
 
     - icon: "wind"
       title: Ốp vách & Sofa
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      content: Giải pháp ốp vách và sofa tạo điểm nhấn ấn tượng cho không gian nội thất. Thiết kế đa dạng, chất liệu cao cấp, giúp tăng tính thẩm mỹ, đồng thời mang lại sự ấm cúng, sang trọng và cá tính riêng cho ngôi nhà.
       image: /images/bthouse/sofa.png
 
 #intro
