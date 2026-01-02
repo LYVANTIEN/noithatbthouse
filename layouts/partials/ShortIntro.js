@@ -22,15 +22,15 @@ const ShortIntro = ({ intro }) => {
 
               />
             </div> */}
-            <div className="flex gap-6 justify-center mt-10">
-              <div className="relative w-full max-w-[450px] aspect-video rounded-2xl overflow-hidden">
+            <div className="flex flex-col gap-6 justify-center mt-10 items-center">
+              <div className="relative w-full max-w-[600px] aspect-video rounded-2xl overflow-hidden">
                 <VideoPopup
                   id={intro.video_id}
                   thumbnail={intro.thumbnail}
                 />
               </div>
 
-              <div className="relative w-full max-w-[450px] aspect-video rounded-2xl overflow-hidden">
+              <div className="relative w-full max-w-[600px] aspect-video rounded-2xl overflow-hidden">
                 <VideoPopup
                   id={intro.video_id_2}
                   thumbnail={intro.thumbnail_2}
