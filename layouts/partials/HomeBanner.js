@@ -184,7 +184,7 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
                     priority={true}
                     alt=""
                     style={{
-                      borderRadius: "80px",
+                      borderRadius: "30px",
                       overflow: "hidden"
                     }}
                   />
