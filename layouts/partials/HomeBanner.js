@@ -95,7 +95,10 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
         <div className="relative">
           <div
             className="banner-bg absolute left-0 top-0 w-full bg-cover bg-center h-[40vh] sm:h-[50vh] md:h-[60vh] lg:h-[70vh]"
-            style={{ backgroundImage: "url('/images/bthouse/phongnguhong.png')" }}
+            style={{
+              backgroundImage: "url('/images/bthouse/phongnguhong.png')", borderRadius: "10px",
+              overflow: "hidden"
+            }}
           >
 
             <Circle
@@ -180,6 +183,10 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
                     height={666}
                     priority={true}
                     alt=""
+                    style={{
+                      borderRadius: "80px",
+                      overflow: "hidden"
+                    }}
                   />
                 </div>
               </div>
@@ -201,7 +208,7 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
               >
                 {brands.map((brand, index) => (
                   <SwiperSlide
-                    className=" h-20 cursor-pointer px-6 py-6 grayscale  transition hover:grayscale-0 lg:px-10"
+                    className=" h-20 cursor-pointer px-6 py-6 grayscale-0  transition hover:grayscale-0 lg:px-10"
                     key={"brand-" + index}
                   >
                     <div className="relative h-[80px] w-[150px] mx-auto">

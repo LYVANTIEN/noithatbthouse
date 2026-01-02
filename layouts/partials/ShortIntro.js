@@ -15,12 +15,28 @@ const ShortIntro = ({ intro }) => {
               {markdownify(intro.title, "h2", "mt-4 section-title font-extrabold text-[32px] sm:text-[36px] lg:text-[42px] [text-shadow:0_12px_8px_rgba(184,142,90,0.45)]")}
               {markdownify(intro.description, "p", "mt-10")}
             </div>
-            <div className="relative w-full max-w-[900px] mx-auto aspect-video rounded-2xl overflow-hidden mt-10">
+            {/* <div className="relative w-full max-w-[900px] mx-auto aspect-video rounded-2xl overflow-hidden mt-10">
               <VideoPopup
                 id={intro.video_id}
                 thumbnail={intro.thumbnail}
 
               />
+            </div> */}
+            <div className="flex gap-6 justify-center mt-10">
+              <div className="relative w-full max-w-[450px] aspect-video rounded-2xl overflow-hidden">
+                <VideoPopup
+                  id={intro.video_id}
+                  thumbnail={intro.thumbnail}
+                />
+              </div>
+
+              <div className="relative w-full max-w-[450px] aspect-video rounded-2xl overflow-hidden">
+                <VideoPopup
+                  id={intro.video_id_2}
+                  thumbnail={intro.thumbnail_2}
+                />
+              </div>
+
             </div>
 
           </div>

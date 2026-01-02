@@ -58,6 +58,8 @@ intro:
   description: Cùng khám phá video thực tế sản phẩm tại BT House,</br> nơi mọi chi tiết được thực hiện tỉ mỉ và chuẩn xác, mang đến không gian hoàn hảo cho khách hàng.
   thumbnail: "/images/video.jpg"
   video_id: kOq9s07PalA #link video
+  video_id_2: sNEHw2izwBo # video 2
+  thumbnail_2: "/images/bangiao.png"
 
 #speciality
 speciality:
