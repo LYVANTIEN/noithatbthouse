@@ -38,7 +38,7 @@ features:
       image: /images/bthouse/bepxam.png
     - icon: "link"
       title: Tủ thiết kế
-      content: Tủ thiết kế theo yêu cầu, đo đạc chuẩn xác theo từng không gian sử dụng. Kiểu dáng đa dạng, vật liệu cao cấp, tối ưu công năng lưu trữ, đáp ứng cả thẩm mỹ và nhu cầu sinh hoạt hàng ngày của gia đình.
+      content: Tủ thiết kế theo yêu cầu, đo đạc chuẩn xác theo từng không gian sử dụng. Kiểu dáng đa dạng, vật liệu cao cấp, độ bền cao, tối ưu công năng lưu trữ, đáp ứng cả thẩm mỹ và nhu cầu sinh hoạt hàng ngày của gia đình.                                                                 
       image: /images/bthouse/tu.png
 
     - icon: "lock"
@@ -48,7 +48,7 @@ features:
 
     - icon: "wind"
       title: Ốp vách & Sofa
-      content: Giải pháp ốp vách và sofa tạo điểm nhấn ấn tượng cho không gian nội thất. Thiết kế đa dạng, chất liệu cao cấp, giúp tăng tính thẩm mỹ, đồng thời mang lại sự ấm cúng, sang trọng và cá tính riêng cho ngôi nhà.
+      content: Giải pháp ốp vách và sofa tạo điểm nhấn ấn tượng cho không gian nội thất. Thiết kế đa dạng, chất liệu cao cấp, giúp tăng tính thẩm mỹ, đồng thời mang lại sự ấm cúng, sang trọng và cá tính riêng cho ngôi nhà của bạn.                                                         
       image: /images/bthouse/sofa.png
 
 #intro
