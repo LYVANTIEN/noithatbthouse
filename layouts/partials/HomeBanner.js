@@ -175,7 +175,7 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
                     </Link>
                   </div>
                 </div>
-                <div className="col-10 d-flex justify-content-center">
+                <div className="col-10 mx-auto d-flex justify-content-center">
                   <ImageFallback
                     className="banner-img opacity-0"
                     src={bannerData.image}
@@ -184,6 +184,7 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
                     priority={true}
                     alt=""
                     style={{
+                      transform: "scale(0.85)",
                       borderRadius: "30px",
                       overflow: "hidden"
                     }}

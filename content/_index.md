@@ -1,7 +1,7 @@
 ---
 banner:
   title: "Nội thất BT House </br>Cần Thơ"
-  image: /images/bianoithat2.png
+  image: /images/anhbiaxoanen.png
   link:
     label: Liên hệ ngay
     href: "tel:0913477124"
