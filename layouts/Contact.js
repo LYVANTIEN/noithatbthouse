@@ -26,7 +26,7 @@ const Contact = ({ data }) => {
               action={config.params.contact_form_action}
               className="contact-form rounded-xl p-6 shadow-[0_4px_25px_rgba(0,0,0,0.05)]"
             >
-              <h2 className="h4 mb-6">Send A Message</h2>
+              <h2 className="h4 mb-6">Để lại thông tin liên hệ</h2>
               <div className="mb-6">
                 <label
                   className="mb-2 block font-medium text-dark"

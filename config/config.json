@@ -19,19 +19,19 @@
     "tag_manager_id": "",
     "contact_form_action": "#",
     "footer_content": "Thiết kế và thi công nội thất trọn gói, uy tín và chất lượng tại Cần Thơ.",
-    "copyright": "Uy tín & chất lượng BT House Cần Thơ "
+    "copyright": "Công ty TNHH Nội thất BT House"
   },
 
   "contact_info": {
     "phone": "+0787975354",
-    "email": "BTHouseCanTho@gmail.com",
-    "location": "Văn phòng công ty: <br/> 71 Phan Trọng Tuệ, Phường Phú Thứ, TP.Cần Thơ <br/> Xưởng sản xuất: <br/> E8 đường số 51, KDC 586, TP. Cần Thơ"
+    "email": "bthousetantho@gmail.com",
+    "location": "Văn phòng công ty & Xưởng sản xuất: <br/> E8 đường số 51, KDC 586, TP. Cần Thơ"
   },
 
   "nav_button": {
      "enable": true,
   "label": "📞 Liên hệ ngay",
-  "link": "tel:0787975354"
+  "link": "tel:0913477124"
   },
 
   "metadata": {
