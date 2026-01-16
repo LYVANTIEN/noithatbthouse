@@ -53,7 +53,7 @@ export default function RootLayout({ children }) {
           content="#000"
         />
       </head>
-      <body suppressHydrationWarning={true}>
+      <body suppressHydrationWarning={true} className="bg-slate-30">
         <TwSizeIndicator />
         <Header />
         {children}

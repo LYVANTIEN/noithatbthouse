@@ -17,7 +17,7 @@
 
   "params": {
     "tag_manager_id": "",
-    "contact_form_action": "#",
+    "contact_form_action": "https://formspree.io/f/mwvvpjvy",
     "footer_content": "Thiết kế và thi công nội thất trọn gói, uy tín và chất lượng tại Cần Thơ.",
     "copyright": "Công ty TNHH Nội thất BT House"
   },

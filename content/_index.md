@@ -4,7 +4,7 @@ banner:
   image: /images/Anhbiaxoanen.png
   link:
     label: Liên hệ ngay
-    href: "tel:0913477124"
+    href: "/contact"
 
 ##brands
 brands:
