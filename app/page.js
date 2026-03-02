@@ -19,29 +19,7 @@ const Home = async () => {
       <SeoMeta title="Nội Thất BT House" />
       <HomeBanner banner={banner} brands={brands} />
       <Features features={features} />
-        <div
-        style={{
-          marginTop: "40px",
-          display: "flex",
-          justifyContent: "center",
-          background: "rgba(255,255,255,0.3)",
-          backdropFilter: "blur(10px)",
-          WebkitBackdropFilter: "blur(10px)",
-          padding: "30px",
-          borderRadius: "16px",
-        }}
-      >
-        <iframe
-          src="https://heyzine.com/flip-book/92cbc79e97.html"
-          width="70%"
-          height="600px"
-          style={{
-            border: "none",
-            borderRadius: "10px",
-          }}
-          loading="lazy"
-        />
-      </div>
+
       <ShortIntro intro={intro} />
       <SpecialFeatures speciality={speciality} />
       {/* <Testimonial testimonial={testimonial} /> */}
